@@ -1,9 +1,9 @@
 # 📺 Paid4Dev
 
-Hi! Welcome to the github of AdKit
+Hi! Welcome to the github of Paid4Dev
  Thanks you, and contributions are welcome.
  
- <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" /> <img alt="Forks" src="https://img.shields.io/github/forks/vodkarm/adkit?style=social"> <img alt="doc" src="https://img.shields.io/badge/Documentaion-yes-blue"> <img alt="maintened" src="https://img.shields.io/badge/maintened%3F-yes-blue"> ![GitHub Repo stars](https://img.shields.io/github/stars/vodkarm/adkit?style=social) [![Downloads](https://pepy.tech/badge/adkit)](https://pepy.tech/project/adkit)
+ <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" /> <img alt="Forks" src="https://img.shields.io/github/forks/vodkarm/adkit?style=social"> <img alt="doc" src="https://img.shields.io/badge/Documentaion-yes-blue"> <img alt="maintened" src="https://img.shields.io/badge/maintened%3F-yes-blue"> ![GitHub Repo stars](https://img.shields.io/github/stars/vodkarm/adkit?style=social) [![Downloads](https://pepy.tech/badge/Paid4Dev)](https://pepy.tech/project/Paid4Dev)
 
 
  # ❓ What is it ?
@@ -31,7 +31,7 @@ init.start([my_main], [my_devid])
 ```
 
 ## 📛 Errors that you can get
-___There are no realy errors in adkit___, sometimes you will get 'nothing to show :(' into your ad page because there are any ads into our system.
+___There are no realy errors in Paid4Dev___, sometimes you will get 'nothing to show :(' into your ad page because there are any ads into our system.
 
 _Response exemple_:
 ```
