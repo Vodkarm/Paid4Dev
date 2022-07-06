@@ -1,25 +1,25 @@
-# 📺 AdsKit
+# 📺 AdKit
 
-Hi! Welcome to the github of my first python package.
+Hi! Welcome to the github of AdKit
  Thanks you, and contributions are welcome.
  
  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" /> <img alt="Forks" src="https://img.shields.io/github/forks/vodkarm/adkit?style=social"> <img alt="doc" src="https://img.shields.io/badge/Documentaion-yes-blue"> <img alt="maintened" src="https://img.shields.io/badge/maintened%3F-yes-blue"> ![GitHub Repo stars](https://img.shields.io/github/stars/vodkarm/adkit?style=social) [![Downloads](https://pepy.tech/badge/adkit)](https://pepy.tech/project/adkit)
 
 
  # ❓ What is it ?
-PyBay is a package that allow you to use bayfiles.com easily in python.
+AdKit is the first ads network on Python
 # 🌐 Is it open-source ?
 Yes it is, under MIT License 
 # 💥 How to use ?
 ```
-pip install adskit
+pip install adkit
 ```
 ```py
-from adskit import init
+from adkit import init
 ```
 ## 🌹 Displaying ad on my program
 ```py
-from adskit import init
+from adkit import init
 
 def main():
 	print('this is my program')
@@ -31,7 +31,7 @@ init.start([my_main], [my_devid])
 ```
 
 ## 📛 Errors that you can get
-___There are no realy errors in adskit___, sometimes you will get 'nothing to show :(' into your ad page because there are any ads into our system.
+___There are no realy errors in adkit___, sometimes you will get 'nothing to show :(' into your ad page because there are any ads into our system.
 
 _Response exemple_:
 ```
@@ -66,7 +66,7 @@ Contact me on telegram: `@vodkarm`, with your devid.
 
 
 # ✨ Dependencies
-**AdsKit** has only 1 dependencies 🥳 !
+**AdKit** has only 1 dependencies 🥳 !
 It's only using **requests** !
 ## 👤 Author
 👤 GitHub: [@**vodkarm**](https://github.com/vodkarm)
