@@ -1,4 +1,4 @@
-# 📺 AdKit
+# 📺 Paid4Dev
 
 Hi! Welcome to the github of AdKit
  Thanks you, and contributions are welcome.
@@ -7,19 +7,19 @@ Hi! Welcome to the github of AdKit
 
 
  # ❓ What is it ?
-AdKit is the first ads network on Python
+Paid4Dev is the first ads network on Python
 # 🌐 Is it open-source ?
 Yes it is, under MIT License 
 # 💥 How to use ?
 ```
-pip install adkit
+pip install paid4dev
 ```
 ```py
-from adkit import init
+from paid4dev import init
 ```
 ## 🌹 Displaying ad on my program
 ```py
-from adkit import init
+from paid4dev import init
 
 def main():
 	print('this is my program')
@@ -66,7 +66,7 @@ Contact me on telegram: `@vodkarm`, with your devid.
 
 
 # ✨ Dependencies
-**AdKit** has only 1 dependencies 🥳 !
+**Paid4Dev** has only 1 dependencies 🥳 !
 It's only using **requests** !
 ## 👤 Author
 👤 GitHub: [@**vodkarm**](https://github.com/vodkarm)
